@@ -1,3 +1,4 @@
 function my(){
-  console.log("")
+  console.log("awesome work")
 }
+my();
