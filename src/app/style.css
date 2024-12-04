@@ -4,3 +4,7 @@ h3{
 .main{
   color: brown;
 }
+.loading{
+  width: 50%;
+ height: 50%;
+}
